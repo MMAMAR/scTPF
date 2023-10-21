@@ -45,3 +45,13 @@ The topological  and probabilistic filter rely on two hyperparameters:
 
 * k_cc: The parameter used to build the k-nn graph(k in  Algorithm 1 of the paper )
 
+# Citation
+@inproceedings{mrabah2023exploring,
+  title={Exploring the interaction between local and global latent configurations for clustering single-cell RNA-seq: a unified perspective},
+  author={Mrabah, Nairouz and Amar, Mohamed Mahmoud and Bouguessa, Mohamed and Diallo, Abdoulaye Banire},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={8},
+  pages={9235--9242},
+  year={2023}
+}
