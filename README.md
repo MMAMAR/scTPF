@@ -27,6 +27,8 @@ $ cd ref
 $ ./compile_pers_lib.sh
 ```
 
+# Download data
+The link to the datasets: https://drive.google.com/drive/folders/1Q3Y8h8rGcumb0un8BYntpaG201wLlIX1?usp=share_link
 # Usage 
 To evaluate our approach on each of the eight datasets, run the python scripts main_$dataset_name$.py. 
 The following is a list of all the scripts:
